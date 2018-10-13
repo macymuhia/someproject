@@ -1,3 +1,5 @@
+from test import testing
+
 def print_name():
 	print "My name is Macy"
 
